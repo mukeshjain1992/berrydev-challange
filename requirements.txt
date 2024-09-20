@@ -28,4 +28,3 @@ tomli==2.0.1
 typing_extensions==4.12.2
 uvicorn==0.30.6
 wrapt==1.16.0
-zipp==3.20.2
